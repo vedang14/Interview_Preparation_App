@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "628190365304",
+    "firebase_url": "https://interviewpreperation-a1cd7.firebaseio.com",
+    "project_id": "interviewpreperation-a1cd7",
+    "storage_bucket": "interviewpreperation-a1cd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628190365304:android:abf7aa58a9a28648",
+        "android_client_info": {
+          "package_name": "com.vedangbhardwaj.interviewpreperation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628190365304-6lh1g2enmvetp1mc0s6hlkkj21viam3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vedangbhardwaj.interviewpreperation",
+            "certificate_hash": "ee9d9911c1396abb5bf857d048f3f8a03a8946ee"
+          }
+        },
+        {
+          "client_id": "628190365304-u8nljn20c4tu7ja2m9l249p60aacv2ec.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "628190365304-u8nljn20c4tu7ja2m9l249p60aacv2ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4wlUtj5TadvR_LjTRPn5839RlbpU_in0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628190365304-u8nljn20c4tu7ja2m9l249p60aacv2ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
